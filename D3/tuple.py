@@ -2,7 +2,7 @@
 a=('rih',)
 print(len(a))
 p=tuple((1,1,1,12,3))
-print(p,p[2:5])#SLICING
+print(p,p[2:5])#SLICING.
 #out of index range=INDEXERROR
 #float index=TYPEERROR
 #-1 INDEX IS LAST ITEM
